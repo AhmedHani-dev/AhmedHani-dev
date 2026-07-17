@@ -52,7 +52,7 @@ Passionate about building scalable, secure, and high-performance enterprise appl
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=angular,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=angular,bootstrap" />
 </p>
 
 ### Database
