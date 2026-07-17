@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hani</h1>
 
-<h3 align="center">Senior Full Stack Software Engineer | .NET | Angular | Cloud & DevOps</h3>
+<h3 align="center">
+Senior Full Stack Software Engineer | .NET | Angular | Cloud & DevOps
+</h3>
 
 <p align="center">
-Passionate about building scalable, secure, and high-performance enterprise applications using modern Microsoft technologies.
+Building secure, scalable, and high-performance enterprise applications with modern Microsoft technologies.
 </p>
 
 <p align="center">
   <a href="https://github.com/AhmedHani-dev">
-    <img src="https://komarev.com/ghpvc/?username=AhmedHani-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=AhmedHani-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
   <a href="https://github.com/AhmedHani-dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/AhmedHani-dev?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/AhmedHani-dev?style=social" alt="GitHub Followers"/>
   </a>
   <a href="https://www.linkedin.com/in/ahmedhani/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Hani-0077B5?style=social&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Hani-0A66C2?style=social&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -23,12 +25,12 @@ Passionate about building scalable, secure, and high-performance enterprise appl
 ## 👨‍💻 About Me
 
 - 💼 Senior Full Stack Software Engineer with **5+ years** of experience
-- 🏛️ Designing and developing enterprise and government digital platforms
-- 💜 Specialized in **C#, ASP.NET Core, .NET, Entity Framework Core, SQL Server, Angular**
-- ☁️ Experienced with **Azure DevOps, Docker, Kubernetes, CI/CD**
-- 🧩 Passionate about **Clean Architecture, Domain-Driven Design (DDD), SOLID, and scalable system design**
+- 🏛️ Building enterprise and government digital platforms
+- 💻 Specialized in **C#, ASP.NET Core (.NET 5–10), Entity Framework Core, SQL Server & Angular**
+- ☁️ Experienced with **Azure DevOps, Docker, Kubernetes & CI/CD**
+- 🏗️ Strong advocate of **Clean Architecture, DDD, SOLID & Design Patterns**
 - 🌍 Based in **Abu Dhabi, UAE**
-- 🚀 Always learning new technologies and software engineering best practices
+- 📚 Continuously learning modern software architecture and cloud-native technologies
 
 ---
 
@@ -37,54 +39,58 @@ Passionate about building scalable, secure, and high-performance enterprise appl
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,ts,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=cs,ts,js,html,css" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet" />
-<img src="https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=angular,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,githubactions,git" />
+  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,githubactions,git" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmedHani-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHani-dev&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AhmedHani-dev&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedHani-dev&theme=github-dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedHani-dev&theme=github_dark" alt="Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedHani-dev&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedHani-dev&theme=github_dark" width="48%"/>
 </p>
 
 ---
@@ -97,11 +103,11 @@ Passionate about building scalable, secure, and high-performance enterprise appl
 - Cloud-Native Solutions
 - Internal Business Systems
 - CI/CD Pipelines
-- Automation Tools
+- Automation & Integration Solutions
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
 - Event-Driven Architecture
 - Distributed Systems
@@ -111,13 +117,13 @@ Passionate about building scalable, secure, and high-performance enterprise appl
 
 ## 📫 Connect With Me
 
-<p align="left">
-<a href="https://github.com/AhmedHani-dev" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="48" />
-</a>
-<a href="https://www.linkedin.com/in/ahmedhani/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48" />
-</a>
+<p>
+  <a href="https://github.com/AhmedHani-dev">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmedhani/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
@@ -126,6 +132,6 @@ Passionate about building scalable, secure, and high-performance enterprise appl
 
 ### 💡 *"First, solve the problem. Then, write the code."*
 
-⭐ **If you like my work, consider starring one of my repositories!**
+⭐ Thanks for visiting my profile!
 
 </div>
