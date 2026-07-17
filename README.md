@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Ahmed Hani</h1>
 
 <h3 align="center">Senior Full Stack Software Engineer | .NET | Angular | Cloud & DevOps</h3>
@@ -132,4 +131,3 @@ Passionate about building scalable, secure, and high-performance enterprise appl
 ⭐ **If you like my work, consider starring one of my repositories!**
 
 </div>
-```
