@@ -58,8 +58,8 @@ Passionate about building scalable, secure, and high-performance enterprise appl
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
 ### Cloud & DevOps
@@ -96,7 +96,6 @@ Passionate about building scalable, secure, and high-performance enterprise appl
 - RESTful APIs
 - Cloud-Native Solutions
 - Internal Business Systems
-- Microservices
 - CI/CD Pipelines
 - Automation Tools
 
@@ -106,7 +105,6 @@ Passionate about building scalable, secure, and high-performance enterprise appl
 
 - Event-Driven Architecture
 - Distributed Systems
-- Advanced Kubernetes
 - AI-Assisted Software Development
 
 ---
