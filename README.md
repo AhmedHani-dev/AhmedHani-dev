@@ -78,23 +78,6 @@ Building secure, scalable, and high-performance enterprise applications with mod
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedHani-dev&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedHani-dev&theme=github_dark" alt="Profile Summary"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedHani-dev&theme=github_dark" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedHani-dev&theme=github_dark" width="48%"/>
-</p>
-
----
-
 ## 🏗️ What I Build
 
 - Enterprise Web Applications
@@ -125,13 +108,3 @@ Building secure, scalable, and high-performance enterprise applications with mod
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
----
-
-<div align="center">
-
-### 💡 *"First, solve the problem. Then, write the code."*
-
-⭐ Thanks for visiting my profile!
-
-</div>
